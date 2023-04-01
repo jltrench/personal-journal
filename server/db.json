@@ -1,0 +1,37 @@
+{
+  "learnhttp": {
+    "content": "Hello World"
+  },
+  "journals": [
+    {
+      "id": "6bfc9510-d0a5-11ed-86f0-35e33b078f37",
+      "content": "Hoje terminei o curso de web API!",
+      "created_at": "2023-03-31 15:53:45.788181",
+      "updated_at": "2023-03-31 15:53:45.788181"
+    },
+    {
+      "id": "57ab89a0-d0ae-11ed-a0ad-450ff2ae6d30",
+      "content": "Escrevendo um teste..",
+      "created_at": "2023-03-22 16:57:43.245863",
+      "updated_at": "2023-03-22 16:57:43.245863"
+    },
+    {
+      "id": "09514a50-d0af-11ed-9383-990103c05706",
+      "content": "Testandoooo",
+      "created_at": "2023-03-23 16:59:13.577568",
+      "updated_at": "2023-03-23 16:59:13.577568"
+    },
+    {
+      "id": "ee8860d0-d0b0-11ed-af48-c97814af45b6",
+      "content": "Cozinhei arroz!",
+      "created_at": "2023-03-25 17:16:17.221079",
+      "updated_at": "2023-03-25 17:16:17.221079"
+    },
+    {
+      "id": "c8a93850-d0b3-11ed-8eb4-eb6affeaeca6",
+      "content": "Agora foi?",
+      "created_at": "2023-03-23 17:36:33.537978",
+      "updated_at": "2023-03-23 17:36:33.537978"
+    }
+  ]
+}
